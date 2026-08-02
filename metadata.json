@@ -1,0 +1,5 @@
+{
+  "name": "USD to IQD Converter",
+  "description": "A modern, responsive USD to IQD currency converter with a fixed exchange rate.",
+  "requestFramePermissions": []
+}
